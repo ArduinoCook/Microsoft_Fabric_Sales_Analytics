@@ -1,0 +1,101 @@
+﻿ProductID,ProductName,Category,Subcategory,UnitPrice
+PROD001,Business Laptop 001,Electronics,Laptops,123.44
+PROD002,Ultrabook 002,Electronics,Laptops,196.89
+PROD003,Notebook 003,Electronics,Laptops,270.34
+PROD004,24-inch Monitor 004,Electronics,Monitors,343.79
+PROD005,27-inch Monitor 005,Electronics,Monitors,417.24
+PROD006,Portable Monitor 006,Electronics,Monitors,490.69
+PROD007,Wireless Mouse 007,Electronics,Accessories,564.14
+PROD008,Keyboard 008,Electronics,Accessories,637.59
+PROD009,USB-C Hub 009,Electronics,Accessories,711.04
+PROD010,Headphones 010,Electronics,Accessories,784.49
+PROD011,Office Chair 011,Office,Furniture,857.94
+PROD012,Desk 012,Office,Furniture,931.39
+PROD013,Footrest 013,Office,Furniture,1004.84
+PROD014,Notebook Pack 014,Office,Stationery,1078.29
+PROD015,Pen Set 015,Office,Stationery,1151.74
+PROD016,Desk Organizer 016,Office,Stationery,1225.19
+PROD017,Filing Box 017,Office,Storage,1298.64
+PROD018,Shelf Unit 018,Office,Storage,1372.09
+PROD019,Document Tray 019,Office,Storage,1445.54
+PROD020,Kettle 020,Home,Kitchen,1518.99
+PROD021,Toaster 021,Home,Kitchen,1592.44
+PROD022,Coffee Maker 022,Home,Kitchen,1665.89
+PROD023,Vacuum Cleaner 023,Home,Cleaning,1739.34
+PROD024,Mop Set 024,Home,Cleaning,1812.79
+PROD025,Cleaning Kit 025,Home,Cleaning,1886.24
+PROD026,Desk Lamp 026,Home,Lighting,1959.69
+PROD027,LED Bulb Pack 027,Home,Lighting,2033.14
+PROD028,Floor Lamp 028,Home,Lighting,2106.59
+PROD029,Yoga Mat 029,Sports,Fitness,2180.04
+PROD030,Dumbbell Set 030,Sports,Fitness,2253.49
+PROD031,Resistance Bands 031,Sports,Fitness,2326.94
+PROD032,Camping Chair 032,Sports,Outdoor,2400.39
+PROD033,Cooler Box 033,Sports,Outdoor,2473.84
+PROD034,Hiking Backpack 034,Sports,Outdoor,2547.29
+PROD035,Wireless Mouse 035,Sports,Accessories,2620.74
+PROD036,Keyboard 036,Sports,Accessories,2694.19
+PROD037,USB-C Hub 037,Sports,Accessories,2767.64
+PROD038,Headphones 038,Sports,Accessories,2841.09
+PROD039,USB-C Hub 039,Electronics,Accessories,2914.54
+PROD040,Office Chair 040,Office,Furniture,2987.99
+PROD041,Pen Set 041,Office,Stationery,3061.44
+PROD042,Document Tray 042,Office,Storage,3134.89
+PROD043,Kettle 043,Home,Kitchen,3208.34
+PROD044,Mop Set 044,Home,Cleaning,3281.79
+PROD045,Floor Lamp 045,Home,Lighting,3355.24
+PROD046,Yoga Mat 046,Sports,Fitness,3428.69
+PROD047,Cooler Box 047,Sports,Outdoor,3502.14
+PROD048,Headphones 048,Sports,Accessories,3575.59
+PROD049,Business Laptop 049,Electronics,Laptops,3649.04
+PROD050,27-inch Monitor 050,Electronics,Monitors,3722.49
+PROD051,USB-C Hub 051,Electronics,Accessories,3795.94
+PROD052,Office Chair 052,Office,Furniture,3869.39
+PROD053,Pen Set 053,Office,Stationery,3942.84
+PROD054,Document Tray 054,Office,Storage,4016.29
+PROD055,Kettle 055,Home,Kitchen,4089.74
+PROD056,Mop Set 056,Home,Cleaning,4163.19
+PROD057,Floor Lamp 057,Home,Lighting,4236.64
+PROD058,Yoga Mat 058,Sports,Fitness,4310.09
+PROD059,Cooler Box 059,Sports,Outdoor,4383.54
+PROD060,Headphones 060,Sports,Accessories,4456.99
+PROD061,Business Laptop 061,Electronics,Laptops,4530.44
+PROD062,27-inch Monitor 062,Electronics,Monitors,4603.89
+PROD063,USB-C Hub 063,Electronics,Accessories,4677.34
+PROD064,Office Chair 064,Office,Furniture,4750.79
+PROD065,Pen Set 065,Office,Stationery,4824.24
+PROD066,Document Tray 066,Office,Storage,4897.69
+PROD067,Kettle 067,Home,Kitchen,4971.14
+PROD068,Mop Set 068,Home,Cleaning,94.59
+PROD069,Floor Lamp 069,Home,Lighting,168.04
+PROD070,Yoga Mat 070,Sports,Fitness,241.49
+PROD071,Cooler Box 071,Sports,Outdoor,314.94
+PROD072,Headphones 072,Sports,Accessories,388.39
+PROD073,Business Laptop 073,Electronics,Laptops,461.84
+PROD074,27-inch Monitor 074,Electronics,Monitors,535.29
+PROD075,USB-C Hub 075,Electronics,Accessories,608.74
+PROD076,Office Chair 076,Office,Furniture,682.19
+PROD077,Pen Set 077,Office,Stationery,755.64
+PROD078,Document Tray 078,Office,Storage,829.09
+PROD079,Kettle 079,Home,Kitchen,902.54
+PROD080,Mop Set 080,Home,Cleaning,975.99
+PROD081,Floor Lamp 081,Home,Lighting,1049.44
+PROD082,Yoga Mat 082,Sports,Fitness,1122.89
+PROD083,Cooler Box 083,Sports,Outdoor,1196.34
+PROD084,Headphones 084,Sports,Accessories,1269.79
+PROD085,Business Laptop 085,Electronics,Laptops,1343.24
+PROD086,27-inch Monitor 086,Electronics,Monitors,1416.69
+PROD087,USB-C Hub 087,Electronics,Accessories,1490.14
+PROD088,Office Chair 088,Office,Furniture,1563.59
+PROD089,Pen Set 089,Office,Stationery,1637.04
+PROD090,Document Tray 090,Office,Storage,1710.49
+PROD091,Kettle 091,Home,Kitchen,1783.94
+PROD092,Mop Set 092,Home,Cleaning,1857.39
+PROD093,Floor Lamp 093,Home,Lighting,1930.84
+PROD094,Yoga Mat 094,Sports,Fitness,2004.29
+PROD095,Cooler Box 095,Sports,Outdoor,2077.74
+PROD096,Headphones 096,Sports,Accessories,2151.19
+PROD097,Business Laptop 097,Electronics,Laptops,2224.64
+PROD098,27-inch Monitor 098,Electronics,Monitors,2298.09
+PROD099,USB-C Hub 099,Electronics,Accessories,2371.54
+PROD100,Office Chair 100,Office,Furniture,2444.99

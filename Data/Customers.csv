@@ -1,0 +1,101 @@
+﻿CustomerID,FirstName,LastName,Email,City,Province,JoinDate,Status
+CUST001,Liam,Smith,liam.smith001@example.com,Pretoria,Gauteng,2021-01-15,Active
+CUST002,Emma,Pillay,emma.pillay002@example.com,Johannesburg,Gauteng,2021-02-01,Active
+CUST003,Noah,Fourie,noah.fourie003@example.com,Centurion,Gauteng,2021-02-18,Active
+CUST004,Olivia,Naidoo,olivia.naidoo004@example.com,Cape Town,Western Cape,2021-03-07,Active
+CUST005,Ethan,Mahlangu,ethan.mahlangu005@example.com,Stellenbosch,Western Cape,2021-03-24,Inactive
+CUST006,Ava,Mthembu,ava.mthembu006@example.com,Durban,KwaZulu-Natal,2021-04-10,Active
+CUST007,Luke,Botha,luke.botha007@example.com,Pietermaritzburg,KwaZulu-Natal,2021-04-27,Active
+CUST008,Mia,Williams,mia.williams008@example.com,Gqeberha,Eastern Cape,2021-05-14,Active
+CUST009,Daniel,Nel,daniel.nel009@example.com,East London,Eastern Cape,2021-05-31,Active
+CUST010,Leah,Nkosi,leah.nkosi010@example.com,Bloemfontein,Free State,2021-06-17,Inactive
+CUST011,James,Pretorius,james.pretorius011@example.com,Polokwane,Limpopo,2021-07-04,Active
+CUST012,Zoe,Govender,zoe.govender012@example.com,Mbombela,Mpumalanga,2021-07-21,Active
+CUST013,Ryan,Jacobs,ryan.jacobs013@example.com,Rustenburg,North West,2021-08-07,Active
+CUST014,Chloe,Dlamini,chloe.dlamini014@example.com,Kimberley,Northern Cape,2021-08-24,Active
+CUST015,Matthew,Du Plessis,matthew.duplessis015@example.com,Pretoria,Gauteng,2021-09-10,Inactive
+CUST016,Sarah,Mokoena,sarah.mokoena016@example.com,Johannesburg,Gauteng,2021-09-27,Active
+CUST017,Joshua,Meyer,joshua.meyer017@example.com,Centurion,Gauteng,2021-10-14,Active
+CUST018,Grace,Ndlovu,grace.ndlovu018@example.com,Cape Town,Western Cape,2021-10-31,Active
+CUST019,Nathan,Van Wyk,nathan.vanwyk019@example.com,Stellenbosch,Western Cape,2021-11-17,Active
+CUST020,Amy,Khumalo,amy.khumalo020@example.com,Durban,KwaZulu-Natal,2021-12-04,Inactive
+CUST021,Michael,Smith,michael.smith021@example.com,Pietermaritzburg,KwaZulu-Natal,2021-12-21,Active
+CUST022,Nicole,Pillay,nicole.pillay022@example.com,Gqeberha,Eastern Cape,2022-01-07,Active
+CUST023,David,Fourie,david.fourie023@example.com,East London,Eastern Cape,2022-01-24,Active
+CUST024,Kayla,Naidoo,kayla.naidoo024@example.com,Bloemfontein,Free State,2022-02-10,Active
+CUST025,Jason,Mahlangu,jason.mahlangu025@example.com,Polokwane,Limpopo,2022-02-27,Inactive
+CUST026,Taryn,Mthembu,taryn.mthembu026@example.com,Mbombela,Mpumalanga,2022-03-16,Active
+CUST027,Kyle,Botha,kyle.botha027@example.com,Rustenburg,North West,2022-04-02,Active
+CUST028,Nadia,Williams,nadia.williams028@example.com,Kimberley,Northern Cape,2022-04-19,Active
+CUST029,Dylan,Nel,dylan.nel029@example.com,Pretoria,Gauteng,2022-05-06,Active
+CUST030,Bianca,Nkosi,bianca.nkosi030@example.com,Johannesburg,Gauteng,2022-05-23,Inactive
+CUST031,Liam,Pretorius,liam.pretorius031@example.com,Centurion,Gauteng,2022-06-09,Active
+CUST032,Emma,Govender,emma.govender032@example.com,Cape Town,Western Cape,2022-06-26,Active
+CUST033,Noah,Jacobs,noah.jacobs033@example.com,Stellenbosch,Western Cape,2022-07-13,Active
+CUST034,Olivia,Dlamini,olivia.dlamini034@example.com,Durban,KwaZulu-Natal,2022-07-30,Active
+CUST035,Ethan,Du Plessis,ethan.duplessis035@example.com,Pietermaritzburg,KwaZulu-Natal,2022-08-16,Inactive
+CUST036,Ava,Mokoena,ava.mokoena036@example.com,Gqeberha,Eastern Cape,2022-09-02,Active
+CUST037,Luke,Meyer,luke.meyer037@example.com,East London,Eastern Cape,2022-09-19,Active
+CUST038,Mia,Ndlovu,mia.ndlovu038@example.com,Bloemfontein,Free State,2022-10-06,Active
+CUST039,Daniel,Van Wyk,daniel.vanwyk039@example.com,Polokwane,Limpopo,2022-10-23,Active
+CUST040,Leah,Khumalo,leah.khumalo040@example.com,Mbombela,Mpumalanga,2022-11-09,Inactive
+CUST041,James,Smith,james.smith041@example.com,Rustenburg,North West,2022-11-26,Active
+CUST042,Zoe,Pillay,zoe.pillay042@example.com,Kimberley,Northern Cape,2022-12-13,Active
+CUST043,Ryan,Fourie,ryan.fourie043@example.com,Pretoria,Gauteng,2022-12-30,Active
+CUST044,Chloe,Naidoo,chloe.naidoo044@example.com,Johannesburg,Gauteng,2023-01-16,Active
+CUST045,Matthew,Mahlangu,matthew.mahlangu045@example.com,Centurion,Gauteng,2023-02-02,Inactive
+CUST046,Sarah,Mthembu,sarah.mthembu046@example.com,Cape Town,Western Cape,2023-02-19,Active
+CUST047,Joshua,Botha,joshua.botha047@example.com,Stellenbosch,Western Cape,2023-03-08,Active
+CUST048,Grace,Williams,grace.williams048@example.com,Durban,KwaZulu-Natal,2023-03-25,Active
+CUST049,Nathan,Nel,nathan.nel049@example.com,Pietermaritzburg,KwaZulu-Natal,2023-04-11,Active
+CUST050,Amy,Nkosi,amy.nkosi050@example.com,Gqeberha,Eastern Cape,2023-04-28,Inactive
+CUST051,Michael,Pretorius,michael.pretorius051@example.com,East London,Eastern Cape,2023-05-15,Active
+CUST052,Nicole,Govender,nicole.govender052@example.com,Bloemfontein,Free State,2023-06-01,Active
+CUST053,David,Jacobs,david.jacobs053@example.com,Polokwane,Limpopo,2023-06-18,Active
+CUST054,Kayla,Dlamini,kayla.dlamini054@example.com,Mbombela,Mpumalanga,2023-07-05,Active
+CUST055,Jason,Du Plessis,jason.duplessis055@example.com,Rustenburg,North West,2023-07-22,Inactive
+CUST056,Taryn,Mokoena,taryn.mokoena056@example.com,Kimberley,Northern Cape,2023-08-08,Active
+CUST057,Kyle,Meyer,kyle.meyer057@example.com,Pretoria,Gauteng,2023-08-25,Active
+CUST058,Nadia,Ndlovu,nadia.ndlovu058@example.com,Johannesburg,Gauteng,2023-09-11,Active
+CUST059,Dylan,Van Wyk,dylan.vanwyk059@example.com,Centurion,Gauteng,2023-09-28,Active
+CUST060,Bianca,Khumalo,bianca.khumalo060@example.com,Cape Town,Western Cape,2023-10-15,Inactive
+CUST061,Liam,Smith,liam.smith061@example.com,Stellenbosch,Western Cape,2023-11-01,Active
+CUST062,Emma,Pillay,emma.pillay062@example.com,Durban,KwaZulu-Natal,2023-11-18,Active
+CUST063,Noah,Fourie,noah.fourie063@example.com,Pietermaritzburg,KwaZulu-Natal,2023-12-05,Active
+CUST064,Olivia,Naidoo,olivia.naidoo064@example.com,Gqeberha,Eastern Cape,2023-12-22,Active
+CUST065,Ethan,Mahlangu,ethan.mahlangu065@example.com,East London,Eastern Cape,2024-01-08,Inactive
+CUST066,Ava,Mthembu,ava.mthembu066@example.com,Bloemfontein,Free State,2024-01-25,Active
+CUST067,Luke,Botha,luke.botha067@example.com,Polokwane,Limpopo,2024-02-11,Active
+CUST068,Mia,Williams,mia.williams068@example.com,Mbombela,Mpumalanga,2024-02-28,Active
+CUST069,Daniel,Nel,daniel.nel069@example.com,Rustenburg,North West,2024-03-16,Active
+CUST070,Leah,Nkosi,leah.nkosi070@example.com,Kimberley,Northern Cape,2024-04-02,Inactive
+CUST071,James,Pretorius,james.pretorius071@example.com,Pretoria,Gauteng,2024-04-19,Active
+CUST072,Zoe,Govender,zoe.govender072@example.com,Johannesburg,Gauteng,2024-05-06,Active
+CUST073,Ryan,Jacobs,ryan.jacobs073@example.com,Centurion,Gauteng,2024-05-23,Active
+CUST074,Chloe,Dlamini,chloe.dlamini074@example.com,Cape Town,Western Cape,2024-06-09,Active
+CUST075,Matthew,Du Plessis,matthew.duplessis075@example.com,Stellenbosch,Western Cape,2024-06-26,Inactive
+CUST076,Sarah,Mokoena,sarah.mokoena076@example.com,Durban,KwaZulu-Natal,2024-07-13,Active
+CUST077,Joshua,Meyer,joshua.meyer077@example.com,Pietermaritzburg,KwaZulu-Natal,2024-07-30,Active
+CUST078,Grace,Ndlovu,grace.ndlovu078@example.com,Gqeberha,Eastern Cape,2024-08-16,Active
+CUST079,Nathan,Van Wyk,nathan.vanwyk079@example.com,East London,Eastern Cape,2024-09-02,Active
+CUST080,Amy,Khumalo,amy.khumalo080@example.com,Bloemfontein,Free State,2024-09-19,Inactive
+CUST081,Michael,Smith,michael.smith081@example.com,Polokwane,Limpopo,2024-10-06,Active
+CUST082,Nicole,Pillay,nicole.pillay082@example.com,Mbombela,Mpumalanga,2024-10-23,Active
+CUST083,David,Fourie,david.fourie083@example.com,Rustenburg,North West,2024-11-09,Active
+CUST084,Kayla,Naidoo,kayla.naidoo084@example.com,Kimberley,Northern Cape,2024-11-26,Active
+CUST085,Jason,Mahlangu,jason.mahlangu085@example.com,Pretoria,Gauteng,2024-12-13,Inactive
+CUST086,Taryn,Mthembu,taryn.mthembu086@example.com,Johannesburg,Gauteng,2024-12-30,Active
+CUST087,Kyle,Botha,kyle.botha087@example.com,Centurion,Gauteng,2025-01-16,Active
+CUST088,Nadia,Williams,nadia.williams088@example.com,Cape Town,Western Cape,2025-02-02,Active
+CUST089,Dylan,Nel,dylan.nel089@example.com,Stellenbosch,Western Cape,2025-02-19,Active
+CUST090,Bianca,Nkosi,bianca.nkosi090@example.com,Durban,KwaZulu-Natal,2025-03-08,Inactive
+CUST091,Liam,Pretorius,liam.pretorius091@example.com,Pietermaritzburg,KwaZulu-Natal,2025-03-25,Active
+CUST092,Emma,Govender,emma.govender092@example.com,Gqeberha,Eastern Cape,2025-04-11,Active
+CUST093,Noah,Jacobs,noah.jacobs093@example.com,East London,Eastern Cape,2025-04-28,Active
+CUST094,Olivia,Dlamini,olivia.dlamini094@example.com,Bloemfontein,Free State,2025-05-15,Active
+CUST095,Ethan,Du Plessis,ethan.duplessis095@example.com,Polokwane,Limpopo,2025-06-01,Inactive
+CUST096,Ava,Mokoena,ava.mokoena096@example.com,Mbombela,Mpumalanga,2025-06-18,Active
+CUST097,Luke,Meyer,luke.meyer097@example.com,Rustenburg,North West,2025-07-05,Active
+CUST098,Mia,Ndlovu,mia.ndlovu098@example.com,Kimberley,Northern Cape,2025-07-22,Active
+CUST099,Daniel,Van Wyk,daniel.vanwyk099@example.com,Pretoria,Gauteng,2025-08-08,Active
+CUST100,Leah,Khumalo,leah.khumalo100@example.com,Johannesburg,Gauteng,2025-08-25,Inactive

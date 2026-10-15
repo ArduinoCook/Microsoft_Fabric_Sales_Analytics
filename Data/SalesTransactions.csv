@@ -1,0 +1,121 @@
+﻿TransactionID,SaleDate,CustomerID,ProductName,Quantity,UnitPrice,TotalAmount,SalesPerson,Region
+TXN0001,2026-07-09,CUST018,Wireless Mouse,1,399.00,399.00,Sarah Jacobs,Western Cape
+TXN0002,2026-06-23,CUST035,Keyboard,2,699.00,1398.00,Thabo Nkosi,Free State
+TXN0003,2026-01-08,CUST006,Webcam,1,899.00,899.00,Sarah Jacobs,Western Cape
+TXN0004,2026-05-24,CUST013,Office Chair,1,3499.00,3499.00,Johan Botha,Eastern Cape
+TXN0005,2026-05-31,CUST018,24-inch Monitor,8,3299.00,26392.00,Thabo Nkosi,Western Cape
+TXN0006,2026-03-13,CUST010,Webcam,6,899.00,5394.00,Sarah Jacobs,KwaZulu-Natal
+TXN0007,2026-04-08,CUST007,Wireless Mouse,2,399.00,798.00,Michael Naidoo,KwaZulu-Natal
+TXN0008,2026-07-26,CUST003,Printer,5,2799.00,13995.00,Lerato Molefe,Free State
+TXN0009,2026-01-21,CUST036,Wireless Mouse,7,399.00,2793.00,Michael Naidoo,Free State
+TXN0010,2026-06-30,CUST005,External SSD 1TB,4,1799.00,7196.00,Thabo Nkosi,Western Cape
+TXN0011,2026-08-07,CUST015,USB-C Dock,2,1899.00,3798.00,Thabo Nkosi,Eastern Cape
+TXN0012,2026-06-12,CUST024,USB-C Dock,8,1899.00,15192.00,Sarah Jacobs,KwaZulu-Natal
+TXN0013,2026-06-21,CUST018,External SSD 1TB,4,1799.00,7196.00,Thabo Nkosi,Free State
+TXN0014,2026-02-11,CUST030,Keyboard,4,699.00,2796.00,Lerato Molefe,KwaZulu-Natal
+TXN0015,2026-06-25,CUST021,Office Chair,4,3499.00,13996.00,Thabo Nkosi,Western Cape
+TXN0016,2026-04-13,CUST018,Laptop,6,14999.00,89994.00,Thabo Nkosi,Western Cape
+TXN0017,2026-02-24,CUST032,Printer,6,2799.00,16794.00,Lerato Molefe,Eastern Cape
+TXN0018,2026-02-05,CUST016,Keyboard,5,699.00,3495.00,Johan Botha,Free State
+TXN0019,2026-08-18,CUST038,USB-C Dock,7,1899.00,13293.00,Lerato Molefe,KwaZulu-Natal
+TXN0020,2026-05-11,CUST032,24-inch Monitor,3,3299.00,9897.00,Thabo Nkosi,Gauteng
+TXN0021,2026-06-10,CUST011,Wireless Mouse,3,399.00,1197.00,Lerato Molefe,Free State
+TXN0022,2026-04-08,CUST039,Wireless Mouse,7,399.00,2793.00,Lerato Molefe,Free State
+TXN0023,2026-06-24,CUST008,USB-C Dock,1,1899.00,1899.00,Johan Botha,KwaZulu-Natal
+TXN0024,2026-03-17,CUST028,External SSD 1TB,2,1799.00,3598.00,Sarah Jacobs,Eastern Cape
+TXN0025,2026-09-06,CUST033,Laptop,5,14999.00,74995.00,Sarah Jacobs,Free State
+TXN0026,2026-08-04,CUST033,Wireless Mouse,5,399.00,1995.00,Johan Botha,Western Cape
+TXN0027,2026-07-15,CUST011,Keyboard,6,699.00,4194.00,Johan Botha,Free State
+TXN0028,2026-05-06,CUST002,Laptop,6,14999.00,89994.00,Thabo Nkosi,KwaZulu-Natal
+TXN0029,2026-01-15,CUST016,USB-C Dock,4,1899.00,7596.00,Johan Botha,Gauteng
+TXN0030,2026-07-28,CUST005,Wireless Mouse,8,399.00,3192.00,Johan Botha,Western Cape
+TXN0031,2026-08-31,CUST036,Keyboard,8,699.00,5592.00,Sarah Jacobs,KwaZulu-Natal
+TXN0032,2026-09-04,CUST014,Office Chair,7,3499.00,24493.00,Johan Botha,Western Cape
+TXN0033,2026-06-21,CUST024,USB-C Dock,7,1899.00,13293.00,Lerato Molefe,Free State
+TXN0034,2026-03-05,CUST015,Headset,2,749.00,1498.00,Thabo Nkosi,KwaZulu-Natal
+TXN0035,2026-05-31,CUST015,Laptop,4,14999.00,59996.00,Thabo Nkosi,Gauteng
+TXN0036,2026-01-18,CUST003,Laptop,4,14999.00,59996.00,Michael Naidoo,Gauteng
+TXN0037,2026-03-13,CUST032,Office Chair,4,3499.00,13996.00,Sarah Jacobs,Free State
+TXN0038,2026-03-04,CUST031,Keyboard,8,699.00,5592.00,Lerato Molefe,Western Cape
+TXN0039,2026-06-18,CUST028,Wireless Mouse,2,399.00,798.00,Michael Naidoo,Eastern Cape
+TXN0040,2026-08-10,CUST004,Webcam,8,899.00,7192.00,Thabo Nkosi,Gauteng
+TXN0041,2026-07-24,CUST007,Webcam,6,899.00,5394.00,Sarah Jacobs,Western Cape
+TXN0042,2026-02-05,CUST028,24-inch Monitor,8,3299.00,26392.00,Sarah Jacobs,KwaZulu-Natal
+TXN0043,2026-08-12,CUST005,Headset,4,749.00,2996.00,Lerato Molefe,Free State
+TXN0044,2026-06-16,CUST035,Wireless Mouse,1,399.00,399.00,Thabo Nkosi,Gauteng
+TXN0045,2026-04-15,CUST032,24-inch Monitor,3,3299.00,9897.00,Lerato Molefe,Western Cape
+TXN0046,2026-02-12,CUST025,Webcam,1,899.00,899.00,Thabo Nkosi,Eastern Cape
+TXN0047,2026-03-15,CUST028,USB-C Dock,8,1899.00,15192.00,Johan Botha,Eastern Cape
+TXN0048,2026-03-17,CUST014,Keyboard,4,699.00,2796.00,Thabo Nkosi,Free State
+TXN0049,2026-07-11,CUST021,Office Chair,1,3499.00,3499.00,Thabo Nkosi,Gauteng
+TXN0050,2026-05-09,CUST034,Printer,8,2799.00,22392.00,Sarah Jacobs,Gauteng
+TXN0051,2026-08-06,CUST012,Office Chair,2,3499.00,6998.00,Thabo Nkosi,Free State
+TXN0052,2026-04-14,CUST008,Wireless Mouse,4,399.00,1596.00,Johan Botha,Western Cape
+TXN0053,2026-06-08,CUST006,Printer,1,2799.00,2799.00,Lerato Molefe,Free State
+TXN0054,2026-08-28,CUST017,Printer,6,2799.00,16794.00,Sarah Jacobs,KwaZulu-Natal
+TXN0055,2026-04-12,CUST009,24-inch Monitor,5,3299.00,16495.00,Michael Naidoo,Eastern Cape
+TXN0056,2026-01-03,CUST030,External SSD 1TB,2,1799.00,3598.00,Johan Botha,Free State
+TXN0057,2026-05-18,CUST014,Wireless Mouse,2,399.00,798.00,Johan Botha,KwaZulu-Natal
+TXN0058,2026-08-14,CUST005,Keyboard,6,699.00,4194.00,Sarah Jacobs,KwaZulu-Natal
+TXN0059,2026-04-23,CUST035,USB-C Dock,3,1899.00,5697.00,Michael Naidoo,Free State
+TXN0060,2026-06-20,CUST036,Office Chair,1,3499.00,3499.00,Michael Naidoo,Gauteng
+TXN0061,2026-01-30,CUST007,Keyboard,5,699.00,3495.00,Johan Botha,Western Cape
+TXN0062,2026-06-04,CUST014,USB-C Dock,5,1899.00,9495.00,Michael Naidoo,Western Cape
+TXN0063,2026-03-06,CUST004,USB-C Dock,8,1899.00,15192.00,Thabo Nkosi,Eastern Cape
+TXN0064,2026-01-01,CUST022,USB-C Dock,1,1899.00,1899.00,Sarah Jacobs,KwaZulu-Natal
+TXN0065,2026-05-22,CUST028,Keyboard,8,699.00,5592.00,Johan Botha,Gauteng
+TXN0066,2026-08-30,CUST010,Wireless Mouse,2,399.00,798.00,Johan Botha,Gauteng
+TXN0067,2026-04-21,CUST009,External SSD 1TB,3,1799.00,5397.00,Thabo Nkosi,KwaZulu-Natal
+TXN0068,2026-08-19,CUST023,External SSD 1TB,1,1799.00,1799.00,Sarah Jacobs,Western Cape
+TXN0069,2026-07-19,CUST036,Wireless Mouse,6,399.00,2394.00,Lerato Molefe,Free State
+TXN0070,2026-08-10,CUST011,Keyboard,4,699.00,2796.00,Sarah Jacobs,Eastern Cape
+TXN0071,2026-07-08,CUST022,Laptop,3,14999.00,44997.00,Lerato Molefe,Western Cape
+TXN0072,2026-07-21,CUST007,USB-C Dock,3,1899.00,5697.00,Lerato Molefe,Gauteng
+TXN0073,2026-02-21,CUST030,Headset,4,749.00,2996.00,Michael Naidoo,KwaZulu-Natal
+TXN0074,2026-01-07,CUST013,24-inch Monitor,4,3299.00,13196.00,Lerato Molefe,KwaZulu-Natal
+TXN0075,2026-09-05,CUST018,USB-C Dock,2,1899.00,3798.00,Michael Naidoo,Free State
+TXN0076,2026-08-29,CUST002,Webcam,6,899.00,5394.00,Thabo Nkosi,KwaZulu-Natal
+TXN0077,2026-01-10,CUST007,Keyboard,5,699.00,3495.00,Johan Botha,Eastern Cape
+TXN0078,2026-04-22,CUST039,External SSD 1TB,6,1799.00,10794.00,Johan Botha,Gauteng
+TXN0079,2026-03-07,CUST003,Webcam,4,899.00,3596.00,Lerato Molefe,Gauteng
+TXN0080,2026-04-04,CUST028,Office Chair,4,3499.00,13996.00,Thabo Nkosi,KwaZulu-Natal
+TXN0081,2026-06-19,CUST008,Printer,6,2799.00,16794.00,Michael Naidoo,Free State
+TXN0082,2026-03-25,CUST026,USB-C Dock,7,1899.00,13293.00,Michael Naidoo,Free State
+TXN0083,2026-04-18,CUST025,Keyboard,4,699.00,2796.00,Sarah Jacobs,Free State
+TXN0084,2026-04-14,CUST036,Printer,5,2799.00,13995.00,Thabo Nkosi,KwaZulu-Natal
+TXN0085,2026-04-21,CUST038,USB-C Dock,4,1899.00,7596.00,Johan Botha,KwaZulu-Natal
+TXN0086,2026-04-24,CUST014,Headset,8,749.00,5992.00,Johan Botha,Eastern Cape
+TXN0087,2026-03-14,CUST033,Keyboard,2,699.00,1398.00,Johan Botha,KwaZulu-Natal
+TXN0088,2026-06-22,CUST020,Wireless Mouse,4,399.00,1596.00,Sarah Jacobs,Western Cape
+TXN0089,2026-01-12,CUST016,Keyboard,1,699.00,699.00,Lerato Molefe,Free State
+TXN0090,2026-04-17,CUST037,Wireless Mouse,8,399.00,3192.00,Sarah Jacobs,Eastern Cape
+TXN0091,2026-03-04,CUST010,Headset,7,749.00,5243.00,Thabo Nkosi,Gauteng
+TXN0092,2026-02-15,CUST034,Webcam,4,899.00,3596.00,Lerato Molefe,Gauteng
+TXN0093,2026-08-23,CUST008,Office Chair,4,3499.00,13996.00,Lerato Molefe,Western Cape
+TXN0094,2026-09-01,CUST029,Headset,6,749.00,4494.00,Johan Botha,Free State
+TXN0095,2026-08-18,CUST011,Webcam,8,899.00,7192.00,Lerato Molefe,Eastern Cape
+TXN0096,2026-08-04,CUST018,USB-C Dock,4,1899.00,7596.00,Johan Botha,Eastern Cape
+TXN0097,2026-04-23,CUST005,24-inch Monitor,5,3299.00,16495.00,Michael Naidoo,Western Cape
+TXN0098,2026-03-23,CUST035,USB-C Dock,6,1899.00,11394.00,Thabo Nkosi,Western Cape
+TXN0099,2026-04-09,CUST010,Keyboard,4,699.00,2796.00,Sarah Jacobs,Gauteng
+TXN0100,2026-03-26,CUST035,Webcam,7,899.00,6293.00,Lerato Molefe,Eastern Cape
+TXN0101,2026-09-23,CUST011,Wireless Mouse,2,350.00,700.00,Thabo Nkosi,Gauteng
+TXN0102,2026-09-23,CUST024,USB-C Hub,1,650.00,650.00,Sarah Jacobs,Western Cape
+TXN0103,2026-09-23,CUST037,Laptop Stand,3,420.00,1260.00,Lerato Mokoena,Gauteng
+TXN0104,2026-09-23,CUST042,Mechanical Keyboard,1,1250.00,1250.00,Jason Naidoo,KwaZulu-Natal
+TXN0105,2026-09-23,CUST055,Webcam,2,890.00,1780.00,Nomsa Dlamini,KwaZulu-Natal
+TXN0106,2026-09-23,CUST063,External SSD,1,1699.00,1699.00,Pieter Botha,Free State
+TXN0107,2026-09-23,CUST071,Bluetooth Speaker,2,750.00,1500.00,Ayesha Khan,Gauteng
+TXN0108,2026-09-23,CUST084,Monitor 24 Inch,1,2899.00,2899.00,Michael Smith,Eastern Cape
+TXN0109,2026-09-23,CUST092,USB Flash Drive,4,180.00,720.00,Zanele Khumalo,Mpumalanga
+TXN0110,2026-09-23,CUST100,Laptop Backpack,1,799.00,799.00,David Williams,Western Cape
+TXN0101,2026-09-23,CUST011,Wireless Mouse,2,350.00,700.00,Thabo Nkosi,Gauteng
+TXN0102,2026-09-23,CUST024,USB-C Hub,1,650.00,650.00,Sarah Jacobs,Western Cape
+TXN0103,2026-09-23,CUST037,Laptop Stand,3,420.00,1260.00,Lerato Mokoena,Gauteng
+TXN0104,2026-09-23,CUST042,Mechanical Keyboard,1,1250.00,1250.00,Jason Naidoo,KwaZulu-Natal
+TXN0105,2026-09-23,CUST055,Webcam,2,890.00,1780.00,Nomsa Dlamini,KwaZulu-Natal
+TXN0106,2026-09-23,CUST063,External SSD,1,1699.00,1699.00,Pieter Botha,Free State
+TXN0107,2026-09-23,CUST071,Bluetooth Speaker,2,750.00,1500.00,Ayesha Khan,Gauteng
+TXN0108,2026-09-23,CUST084,Monitor 24 Inch,1,2899.00,2899.00,Michael Smith,Eastern Cape
+TXN0109,2026-09-23,CUST092,USB Flash Drive,4,180.00,720.00,Zanele Khumalo,Mpumalanga
+TXN0110,2026-09-23,CUST100,Laptop Backpack,1,799.00,799.00,David Williams,Western Cape
