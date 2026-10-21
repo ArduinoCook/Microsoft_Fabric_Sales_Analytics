@@ -21,4 +21,16 @@ The Power BI report consists of a home page with navigation buttons, an Executiv
 
 Screenshots below showcase the Fabric workspace, the lakehouse tables, the notebook used to rebuild the date dimension, and the final Power BI report pages.
 
+## Screenshots
 
+![Lakehouse tables](screenshots/01_lakehouse_tables.png)
+*The Fabric lakehouse showing the star schema tables: dimdate, product, customer and sales transactions.*
+
+![Get data](screenshots/02_get_data.png)
+*Connecting to the lakehouse via Get Data to build the Direct Lake semantic model.*
+
+![Notebook](screenshots/03_notebook_one.png)
+*The PySpark notebook that regenerates the dimdate table for 2026 and writes it back to the lakehouse as a Delta table.*
+
+![Notebook](screenshots/04_notebook_two.png)
+*The PySpark notebook that regenerates the dimdate table for 2026 and writes it back to the lakehouse as a Delta table.*
