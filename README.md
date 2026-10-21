@@ -26,7 +26,7 @@ Screenshots below showcase the Fabric workspace, the lakehouse tables, the noteb
 ![Lakehouse tables](screenshots/01_lakehouse_tables.png)
 *The Fabric lakehouse showing the star schema tables: dimdate, product, customer and sales transactions.*
 
-![Get data](screenshots/02_get_data.png)
+![Get data](screenshots/02_semantic_model.png)
 *Connecting to the lakehouse via Get Data to build the Direct Lake semantic model.*
 
 ![Notebook](screenshots/03_notebook_one.png)
